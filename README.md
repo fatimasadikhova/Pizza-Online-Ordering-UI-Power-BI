@@ -34,18 +34,3 @@ Instead of focusing on traditional data analysis, the project focuses on UI desi
 - Experimented with custom visual layouts and interactive-looking components.
 - Explored alternative use cases of Power BI beyond conventional reporting.
 
-## 📌 Project Scope
-
-This project is a **UI/visualization concept**, not a fully functional e-commerce application.
-
-It focuses on the visual representation of an online pizza ordering platform rather than real payment processing, order management, or delivery operations.
-
-## 👩‍💻 Author
-
-**Fatima Sadixova**
-
-Data Analytics | Power BI | Business Intelligence
-
----
-
-*Created as a personal portfolio project.*
