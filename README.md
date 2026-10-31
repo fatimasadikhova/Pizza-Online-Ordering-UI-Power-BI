@@ -1,12 +1,11 @@
 # 🍕 Pizza Online Ordering UI | Power BI
+## 📸 Project Preview
+
+![Pizza Online Ordering UI](pizza_sales_image.png)
 
 A web-style pizza ordering interface designed and developed in **Microsoft Power BI** using the **HTML Content** custom visual.
 
 This project demonstrates how Power BI can go beyond traditional analytical dashboards and be used to create visually engaging, application-like user interfaces.
-
-## 📸 Project Preview
-
-![Pizza Online Ordering UI](pizza_sales_image.png)
 
 ## 🎯 Project Overview
 
