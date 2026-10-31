@@ -6,7 +6,7 @@ This project demonstrates how Power BI can go beyond traditional analytical dash
 
 ## 📸 Project Preview
 
-![Pizza Online Ordering UI](assets/pizza_sales_image.png)
+![Pizza Online Ordering UI](pizza_sales_image.png)
 
 ## 🎯 Project Overview
 
