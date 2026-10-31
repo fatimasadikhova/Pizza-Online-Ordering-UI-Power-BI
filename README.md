@@ -1,5 +1,4 @@
-# 🍕 Pizza Online Ordering UI | Power BI
-## 📸 Project Preview
+# Pizza Online Ordering UI | Power BI
 
 ![Pizza Online Ordering UI](pizza_sales_image.png)
 
